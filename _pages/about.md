@@ -37,4 +37,4 @@ The pronunciation of my name is My family name is 员(*pinyin*: yùn). It is a r
 
 ### About My Homotown
 
-I come from the northwest of China. My hometown, Weinan(渭南), is a small city neighboring Xi’an(西安), with which it shares close geographical and cultural ties. Since Xi’an is relatively well-known as a city with a long and rich history, I sometimes say that I come from Xi’an. My hometown is also home to Mount Hua, famous for its breathtakingly steep peaks, and we take pride in our local foods, such as roujiamo (like pork sandwich), biangbiang noodles, and yangrou paomo (lamb soup with bread).
+I come from the northwest of China. My hometown, Weinan(渭南), is a small city neighboring Xi’an(西安), with which it shares close geographical and cultural ties. Since Xi’an is relatively well-known as a city with a long and rich history, I sometimes say that I come from Xi’an. My hometown is also home to Mount Hua, famous for its breathtakingly steep peaks, and we take pride in our local foods, such as roujiamo, biangbiang noodles, and yangrou paomo.
