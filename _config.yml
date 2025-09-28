@@ -203,6 +203,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/publications.md
   - _pages/cv.md
+  - _pages/teaching.md
   - _posts/
   - _projects/
   - assets/jupyter/blog.ipynb
