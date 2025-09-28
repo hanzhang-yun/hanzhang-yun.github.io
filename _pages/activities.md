@@ -16,9 +16,12 @@ nav_order: 6
 - Fall 2022, Teaching Assistant, Fundamentals of Geometry 
 - Spring 2022, Teaching Assistant, Topology(H)
 
+## Seminar
+
+Here is a list of seminars that I'm attending or organizing:
+
+
 ## Talks
-
-
 
 <!-- ## Conference
 
