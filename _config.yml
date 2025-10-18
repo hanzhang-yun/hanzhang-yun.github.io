@@ -204,6 +204,7 @@ exclude:
   - _pages/publications.md
   - _pages/cv.md
   - _pages/teaching.md
+  - _pages/activities.md
   - _posts/
   - _projects/
   - assets/jupyter/blog.ipynb
