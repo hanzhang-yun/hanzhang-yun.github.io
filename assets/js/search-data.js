@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-activities",
-          title: "Activities",
-          description: "Information about teaching, seminar and conference.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/activities/";
-          },
         },{id: "nav-about",
           title: "About",
           description: "",
